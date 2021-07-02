@@ -1,0 +1,70 @@
+ <!--header end-->
+ 
+     <header class="alex" >
+		<div class="container">
+		
+             <div class="logo alex">
+             	<a href="index.html"><h2>Logo</h2></a>
+             </div>
+
+             <nav class="menu alex">
+             	<ul>
+             		<li><a href="#">Home</a></li>
+             		<li><a href="#">About</a></li>
+             		<li><a href="#">Works</a></li>
+             		<li><a href="#">Contact</a></li>
+             		
+             	</ul>
+
+             </nav>
+
+		</div>
+
+	</header>
+	<!--header start-->
+	<header >
+		<div class="container-notary">
+		
+             <div class="logo-notary">
+             	<a href="index.html"><img src="images/notary.png" alt="logo_notary"></a>
+             </div>
+
+             <nav class="menu-notary">
+             	<ul>
+             		<li><a href="#">Notarise a Documont</a></li>
+             		<li><a href="#">How it works</a></li>
+             		<li><a href="#"> eForms</a></li>
+             		<li><a href="#">Solutions</a></li>
+             		<li><a href="#"> Become a Notary Agent</a></li>
+             		<li><a href="#">Support</a></li>
+             	</ul>
+
+             </nav>
+
+		</div>
+
+	</header>
+ <!--header end-->
+      <!--header start-->
+      <header >
+            <div class="container">
+            
+             <div class="logo">
+                  <a href="index.html"><img src="images/logo.png" alt="logo"></a>
+             </div>
+
+             <nav class="menu">
+                  <ul>
+                        <li><a href="#">Overviews</a></li>
+                        <li><a href="#">Landings</a></li>
+                        <li><a href="#">Pages</a></li>
+                        <li><a href="#">Apps</a></li>
+                        <li><a href="#">Docs</a></li>
+                  </ul>
+
+             </nav>
+
+            </div>
+
+      </header>
+ <!--header end-->
